@@ -1,0 +1,3 @@
+# Ignore all files in the fonts and logo folders
+_extensions/norad-report-typst-template/fonts/
+_extensions/norad-report-typst-template/logo/
