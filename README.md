@@ -4,7 +4,7 @@ A customized tempate to create Norad PDF reports using Typst in Quarto. The desi
 ## Installing
 
 ```bash
-quarto use template noradno/norad-report-template
+quarto use template noradno/norad-report-typst-template
 ```
 This will install the format extension and create an example qmd file that you can use as a starting place for your Norad report.
 
